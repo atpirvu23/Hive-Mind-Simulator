@@ -1,0 +1,93 @@
+RAPORT FINAL SIMULARE HIVEMIND:
+Dimensiune Harta: 20 x 20
+Durata Simulare: 1000 tick-uri
+
+Total Pachete Generate: 50
+Pachete Livrate: 23
+Pachete Ratate/In Curs: 27
+
+PROFIT FINAL: 4222 credite
+
+
+Statistici Agenti:
+Agent #0 (Drona): Livrari=1, Baterie finala=0/100
+Agent #1 (Drona): Livrari=2, Baterie finala=0/100
+Agent #2 (Drona): Livrari=0, Baterie finala=0/100
+Agent #3 (Robot): Livrari=8, Baterie finala=0/300
+Agent #4 (Robot): Livrari=11, Baterie finala=0/300
+Agent #5 (Scooter): Livrari=1, Baterie finala=0/200
+
+Istoric Pachete
+Pachet 0 | Destinatie: (14,11) >> Creat la tick 10 >>  Livrat la tick 15
+Pachet 1 | Destinatie: (2,8) >> Creat la tick 20 >> Status: Expirat/Negasit
+Pachet 2 | Destinatie: (12,9) >> Creat la tick 30 >>  Livrat la tick 33
+Pachet 3 | Destinatie: (14,11) >> Creat la tick 40 >>  Livrat la tick 44
+Pachet 4 | Destinatie: (12,9) >> Creat la tick 50 >> Status: Expirat/Negasit
+Pachet 5 | Destinatie: (4,3) >> Creat la tick 60 >> Status: Expirat/Negasit
+Pachet 6 | Destinatie: (15,6) >> Creat la tick 70 >>  Livrat la tick 79
+Pachet 7 | Destinatie: (2,6) >> Creat la tick 80 >> Status: Expirat/Negasit
+Pachet 8 | Destinatie: (12,9) >> Creat la tick 90 >>  Livrat la tick 93
+Pachet 9 | Destinatie: (12,9) >> Creat la tick 100 >> Status: Expirat/Negasit
+Pachet 10 | Destinatie: (14,11) >> Creat la tick 110 >>  Livrat la tick 114
+Pachet 11 | Destinatie: (1,7) >> Creat la tick 120 >>  Livrat la tick 133
+Pachet 12 | Destinatie: (14,11) >> Creat la tick 130 >>  Livrat la tick 130
+Pachet 13 | Destinatie: (18,9) >> Creat la tick 140 >> Status: Expirat/Negasit
+Pachet 14 | Destinatie: (15,6) >> Creat la tick 150 >>  Livrat la tick 156
+Pachet 15 | Destinatie: (14,11) >> Creat la tick 160 >>  Livrat la tick 166
+Pachet 16 | Destinatie: (2,8) >> Creat la tick 170 >> Status: Expirat/Negasit
+Pachet 17 | Destinatie: (4,3) >> Creat la tick 180 >>  Livrat la tick 194
+Pachet 18 | Destinatie: (12,9) >> Creat la tick 190 >>  Livrat la tick 201
+Pachet 19 | Destinatie: (14,11) >> Creat la tick 200 >>  Livrat la tick 218
+Pachet 20 | Destinatie: (15,6) >> Creat la tick 210 >>  Livrat la tick 216
+Pachet 21 | Destinatie: (14,11) >> Creat la tick 220 >>  Livrat la tick 226
+Pachet 22 | Destinatie: (18,9) >> Creat la tick 230 >>  Livrat la tick 236
+Pachet 23 | Destinatie: (14,11) >> Creat la tick 240 >>  Livrat la tick 246
+Pachet 24 | Destinatie: (19,1) >> Creat la tick 250 >> Status: Expirat/Negasit
+Pachet 25 | Destinatie: (15,6) >> Creat la tick 260 >>  Livrat la tick 266
+Pachet 26 | Destinatie: (14,11) >> Creat la tick 270 >>  Livrat la tick 276
+Pachet 27 | Destinatie: (14,11) >> Creat la tick 280 >>  Livrat la tick 280
+Pachet 28 | Destinatie: (4,3) >> Creat la tick 290 >> Status: Expirat/Negasit
+Pachet 29 | Destinatie: (1,3) >> Creat la tick 300 >> Status: Expirat/Negasit
+Pachet 30 | Destinatie: (19,1) >> Creat la tick 310 >> Status: Expirat/Negasit
+Pachet 31 | Destinatie: (1,3) >> Creat la tick 320 >>  Livrat la tick 320
+Pachet 32 | Destinatie: (18,9) >> Creat la tick 330 >>  Livrat la tick 339
+Pachet 33 | Destinatie: (1,7) >> Creat la tick 340 >> Status: Expirat/Negasit
+Pachet 34 | Destinatie: (19,1) >> Creat la tick 350 >> Status: Expirat/Negasit
+Pachet 35 | Destinatie: (12,9) >> Creat la tick 360 >>  Livrat la tick 373
+Pachet 36 | Destinatie: (2,8) >> Creat la tick 370 >> Status: Expirat/Negasit
+Pachet 37 | Destinatie: (2,6) >> Creat la tick 380 >> Status: Expirat/Negasit
+Pachet 38 | Destinatie: (19,1) >> Creat la tick 390 >> Status: Expirat/Negasit
+Pachet 39 | Destinatie: (19,1) >> Creat la tick 400 >> Status: Expirat/Negasit
+Pachet 40 | Destinatie: (14,11) >> Creat la tick 410 >> Status: Expirat/Negasit
+Pachet 41 | Destinatie: (18,9) >> Creat la tick 420 >> Status: Expirat/Negasit
+Pachet 42 | Destinatie: (18,9) >> Creat la tick 430 >> Status: Expirat/Negasit
+Pachet 43 | Destinatie: (15,6) >> Creat la tick 440 >> Status: Expirat/Negasit
+Pachet 44 | Destinatie: (4,3) >> Creat la tick 450 >> Status: Expirat/Negasit
+Pachet 45 | Destinatie: (1,3) >> Creat la tick 460 >> Status: Expirat/Negasit
+Pachet 46 | Destinatie: (1,7) >> Creat la tick 470 >> Status: Expirat/Negasit
+Pachet 47 | Destinatie: (18,9) >> Creat la tick 480 >> Status: Expirat/Negasit
+Pachet 48 | Destinatie: (15,6) >> Creat la tick 490 >> Status: Expirat/Negasit
+Pachet 49 | Destinatie: (14,11) >> Creat la tick 500 >> Status: Expirat/Negasit
+
+Snapshot Harta
+Tick 0
+.#....#.....#....#..
+..#D.#.D............
+......D#D...........
+.......#.....##.....
+.#.D#.......#.......
+#....#.............#
+.................#..
+.................#..
+...........#.#....#.
+...#.#....#........#
+..........B.........
+......#.............
+.....#.#.D....S.....
+#.#............#....
+...#.......D#.......
+......D.............
+.S...##..........#..
+.....#.#..##.......#
+......##.D.....#...#
+.D...........S......
